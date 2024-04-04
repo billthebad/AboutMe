@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @billthebad
+- 👋 Hi, I’m A java Learner
 - 👀 I’m interested in Java Web design
 - 🌱 I’m currently learning java/java script/android app develop
 - 💞️ I’m looking to collaborate on ...
